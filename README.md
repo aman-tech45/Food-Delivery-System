@@ -1,2 +1,3 @@
 # Food-Delivery-System
 Food Delivery System Using HTML, CSS, &amp; JAVASCRIPT
+"Introducing this cutting-edge Food Delivery System, a seamless fusion of HTML, CSS, and JavaScript technologies. This project revolutionizes the way food is ordered and delivered, offering a visually appealing and intuitive user interface crafted with HTML and CSS. Users can effortlessly browse a diverse menu, customize orders, and experience a smooth checkout process, all powered by the dynamic capabilities of JavaScript. Enhance the culinary journey with our Food Delivery System, providing a user-friendly platform for restaurants and customers alike, ensuring a delightful and efficient online dining experience."
